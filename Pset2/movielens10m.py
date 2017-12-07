@@ -13,7 +13,7 @@
 # Libraries and provided functions
 import pandas as pd
 import zipfile
-import wget
+#import wget
 from io import StringIO 
 import numpy as np
 import scipy as sp
